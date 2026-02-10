@@ -3,3 +3,5 @@ test repository
 test buat file
 test commit
 test edit
+mengahpus commit 
+menjalankan revisi commit
